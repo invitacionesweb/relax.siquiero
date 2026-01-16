@@ -282,6 +282,7 @@ nav {
 
 /*FOTOS*/
 .novios {
+    overflow-x: hidden;
     width: 100%;
     height: 90VH;
     background-image: url(./img-editable/textura1.png);
