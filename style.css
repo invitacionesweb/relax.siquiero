@@ -282,7 +282,6 @@ nav {
 
 /*FOTOS*/
 .novios {
-    overflow-x: hidden;
     width: 100%;
     height: 90VH;
     background-image: url(./img-editable/textura1.png);
@@ -297,7 +296,7 @@ nav {
     height: auto;
     margin: auto;
     padding: auto;
-    
+    rotate: -3deg;
     
 }
 .icono2 {
@@ -783,7 +782,7 @@ footer p {
         gap:10px;
     }
     .novios {
-        height: 80vh;
+        height: 60vh;
     }
 
 
